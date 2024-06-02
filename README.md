@@ -1,6 +1,6 @@
 # Squid-Game-Younghee-Project
 ## 오징어 게임 영희 프로젝트
-Arduino와 움직임 감지 센서로 만드는 오징어 게임의 영희
+> Arduino와 움직임 감지 센서로 만드는 오징어 게임의 영희
 
 
 ![image](https://github.com/tina908/Squid-Game-Younghee-Project/assets/68736697/090047af-32a6-49f4-bee5-a838ac84c9e3)
